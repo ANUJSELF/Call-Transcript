@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": "account_billing",
+      "name": "Account & Billing",
+      "description": "Issues related to account management and billing",
+      "keywords": ["account balance", "credit limit", "payment", "bill", "charge", "fee", "annual fee", "interest rate"],
+      "priority": "high"
+    },
+    {
+      "id": "card_services",
+      "name": "Card Services",
+      "description": "Card-related inquiries and services",
+      "keywords": ["card replacement", "lost card", "stolen card", "card activation", "pin"],
+      "priority": "high"
+    },
+    {
+      "id": "rewards",
+      "name": "Rewards & Benefits",
+      "description": "Rewards points, miles, and benefits",
+      "keywords": ["points", "miles", "rewards", "cashback", "benefits", "travel"],
+      "priority": "medium"
+    },
+    {
+      "id": "fraud_security",
+      "name": "Fraud & Security",
+      "description": "Fraud and security concerns",
+      "keywords": ["fraud", "unauthorized", "suspicious", "security", "breach"],
+      "priority": "critical"
+    },
+    {
+      "id": "technical",
+      "name": "Technical Support",
+      "description": "Technical issues and troubleshooting",
+      "keywords": ["app error", "website", "login", "access", "not working"],
+      "priority": "high"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "sample_calls": [
+    {
+      "id": "call_001",
+      "date": "2024-01-15",
+      "customer_name": "John Smith",
+      "agent_name": "Sarah Johnson",
+      "duration": 420,
+      "category": "Account & Billing",
+      "transcript": "Customer called regarding account balance inquiry. Agent provided current balance of $5,432.10 and explained recent charges. Customer satisfied with explanation.",
+      "summary": "Customer inquired about account balance and recent transactions.",
+      "sentiment": "neutral"
+    },
+    {
+      "id": "call_002",
+      "date": "2024-01-15",
+      "customer_name": "Jane Doe",
+      "agent_name": "Michael Chen",
+      "duration": 580,
+      "category": "Card Services",
+      "transcript": "Customer reported a lost card and requested immediate replacement. Agent filed a report and expedited new card delivery.",
+      "summary": "Lost card reported and replacement initiated.",
+      "sentiment": "resolved"
+    },
+    {
+      "id": "call_003",
+      "date": "2024-01-16",
+      "customer_name": "Robert Wilson",
+      "agent_name": "Emma Davis",
+      "duration": 320,
+      "category": "Rewards & Benefits",
+      "transcript": "Customer asked about redeeming rewards points for travel. Agent helped identify available travel options and booking process.",
+      "summary": "Rewards redemption inquiry for travel benefits.",
+      "sentiment": "positive"
+    },
+    {
+      "id": "call_004",
+      "date": "2024-01-16",
+      "customer_name": "Patricia Brown",
+      "agent_name": "James Miller",
+      "duration": 650,
+      "category": "Fraud & Security",
+      "transcript": "Customer reported unauthorized transaction. Agent immediately disputed the charge and filed fraud report. Follow-up investigation initiated.",
+      "summary": "Unauthorized transaction disputed and fraud investigation initiated.",
+      "sentiment": "resolved"
+    },
+    {
+      "id": "call_005",
+      "date": "2024-01-17",
+      "customer_name": "David Martinez",
+      "agent_name": "Lisa Anderson",
+      "duration": 480,
+      "category": "Technical Support",
+      "transcript": "Customer unable to login to mobile app. Agent provided troubleshooting steps and performed password reset. Issue resolved successfully.",
+      "summary": "Mobile app login issue resolved with password reset.",
+      "sentiment": "resolved"
+    }
+  ]
+}
